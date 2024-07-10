@@ -57,7 +57,7 @@ body:not(.template-slider) #Content {
 	position: relative;
 }
 .section_wrapper, .container {
-	width: 1200px;
+	width: 1000px;
 	margin: 0 auto;
 	position: relative;
 }
@@ -1245,7 +1245,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 /* Menu wrapper */
 
 #Top_bar .menu_wrapper {
-	float: left;
+	float: right;
 	z-index: 201;
 }
 
@@ -5750,9 +5750,6 @@ body {
 	#Action_bar .contact_details li {
 		color: #000;
 		padding: 0;
-	}
-	#Action_bar .contact_details li.slogan {
-		display: none;
 	}
 	#Action_bar .social {
 		float: none;
